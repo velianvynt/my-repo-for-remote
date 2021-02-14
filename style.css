@@ -31,6 +31,8 @@ body {
     background-color: burlywood;
     text-align: center;
     color: white;
+    position: absolute;
+    bottom: 0;
 }
 
 #header {
